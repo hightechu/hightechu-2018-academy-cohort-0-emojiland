@@ -1,0 +1,11 @@
+.MainPart {
+  width: 320px;
+  border: 5px solid gray;
+  padding: 10px;
+  margin: auto;
+  background: white;
+}
+.button {
+  padding: 15px;
+  text-align: center!important;
+}
